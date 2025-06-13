@@ -1,2 +1,4 @@
-📓Diario de Bordo
-
+= 📓 Diario de Bordo da Turma 
+:icons: font
+:toc: left
+:toclevels: 2
