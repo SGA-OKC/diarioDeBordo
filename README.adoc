@@ -2,3 +2,28 @@
 :icons: font
 :toc: left
 :toclevels: 2
+
+= 📝 Descrição 
+O Diario de Bordo da Turma é um sistema de gerenciamento sobre as aulas, desenvolvido para ajudar a coordenação a organizar suas planilhas diárias. Nos proximos capitulos tem para que serve cada aba do sistema.
+
+= 🎯 Objetivo do Projeto 
+O principal objetivo é facilitar e deixar acessível o trabalho da coordenação sobre as aulas e se os professores estão passanddo o que colocam na descrição da aula.
+
+= 🚀 Recursos 
+
+* Cursos: onde ira selecionar seu curso.
+
+* Turmas: vai selecionar a sua turma.
+
+* Professor: ira colocar o professor daquela aula.
+
+* Unidade Curricular: selecionar a materia do momento.
+
+* Lista de Chamada: onde ira selecionar os alunos faltantes.
+
+* Representante: onde escrevera o seu nome.
+
+* Data/Horario/Turno: onde vai selecionar a data, horario e turno da aula.
+
+* Resumo da Aula: sera descrito o que foi feito na aula.
+
