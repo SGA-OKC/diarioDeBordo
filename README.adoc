@@ -11,19 +11,22 @@ O principal objetivo é facilitar e deixar acessível o trabalho da coordenaçã
 
 = 🚀 Recursos 
 
-* Cursos: onde ira selecionar seu curso.
+* **💻Cursos:** onde ira selecionar seu curso.
 
-* Turmas: vai selecionar a sua turma.
+* **👨🏽‍🤝‍👩🏼Turmas:** vai selecionar a sua turma.
 
-* Professor: ira colocar o professor daquela aula.
+* **🧑🏽‍🏫Professor:** ira colocar o professor daquela aula.
 
-* Unidade Curricular: selecionar a materia do momento.
+* **📚Unidade Curricular:** selecionar a materia do momento.
 
-* Lista de Chamada: onde ira selecionar os alunos faltantes.
+* **👥Lista de Chamada:** onde ira selecionar os alunos faltantes.
 
-* Representante: onde escrevera o seu nome.
+* **🧑🏽‍🎓Representante:** onde escrevera o seu nome.
 
-* Data/Horario/Turno: onde vai selecionar a data, horario e turno da aula.
+* **🕐Data/Horario/Turno:** onde vai selecionar a data, horario e turno da aula.
 
-* Resumo da Aula: sera descrito o que foi feito na aula.
+* **📒Resumo da Aula:** sera descrito o que foi feito na aula.
+
+= 📱Screenshots
+Aqui temos um exemplo de como seria o andamento do formulário.
 
